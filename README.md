@@ -1,2 +1,2 @@
 # Amigo-DiscordBot
-Discord bot for Meraki
+●	Developed “Amigo” – A chatbot using Python and Discord API to provide mental health remedies. 
