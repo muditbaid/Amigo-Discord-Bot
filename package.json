@@ -1,0 +1,23 @@
+{
+  "name": "amigo-discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot for Meraki",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node Amigo.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SRM-ENACTUS-21/Amigo-DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SRM-ENACTUS-21/Amigo-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/SRM-ENACTUS-21/Amigo-DiscordBot#readme",
+  "dependencies": {
+    "discord.py": "^1.0.0"
+  }
+}
